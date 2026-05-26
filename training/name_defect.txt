@@ -1,0 +1,73 @@
+bottle+broken_large+A bottle with large broken defects
+bottle+broken_small+A bottle with small broken defects  
+bottle+contamination+A bottle with contamination defects  
+cable+bent_wire+A cable with bent wire defects  
+cable+cable_swap+A cable with cable swap defects  
+cable+combined+A cable with combined defects  
+cable+cut_inner_insulation+A cable with cut inner insulation defects  
+cable+cut_outer_insulation+A cable with cut outer insulation defects  
+cable+missing_cable+A cable with missing cable defects  
+cable+missing_wire+A cable with missing wire defects  
+cable+poke_insulation+A cable with poke insulation defects  
+capsule+crack+A capsule with crack defects  
+capsule+faulty_imprint+A capsule with faulty imprint defects  
+capsule+poke+A capsule with poke defects  
+capsule+scratch+A capsule with scratch defects  
+capsule+squeeze+A capsule with squeeze defects  
+carpet+color+A carpet with color defects  
+carpet+cut+A carpet with cut defects  
+carpet+hole+A carpet with hole defects  
+carpet+metal_contamination+A carpet with metal contamination defects  
+carpet+thread+A carpet with thread defects  
+grid+bent+A grid with bent defects  
+grid+broken+A grid with broken defects  
+grid+glue+A grid with glue defects  
+grid+metal_contamination+A grid with metal contamination defects  
+grid+thread+A grid with thread defects  
+hazelnut+crack+A hazelnut with crack defects  
+hazelnut+cut+A hazelnut with cut defects  
+hazelnut+hole+A hazelnut with hole defects  
+hazelnut+print+A hazelnut with print defects  
+leather+color+A leather with color defects  
+leather+cut+A leather with cut defects  
+leather+fold+A leather with fold defects  
+leather+glue+A leather with glue defects  
+leather+poke+A leather with poke defects  
+metal_nut+bent+A metal nut with bent defects  
+metal_nut+color+A metal nut with color defects  
+metal_nut+flip+A metal nut with flip defects  
+metal_nut+scratch+A metal nut with scratch defects  
+pill+color+A pill with color defects  
+pill+combined+A pill with combined defects  
+pill+contamination+A pill with contamination defects  
+pill+crack+A pill with crack defects  
+pill+faulty_imprint+A pill with faulty imprint defects  
+pill+pill_type+A pill with pill type defects  
+pill+scratch+A pill with scratch defects  
+screw+manipulated_front+A screw with manipulated front defects  
+screw+scratch_head+A screw with scratch head defects  
+screw+scratch_neck+A screw with scratch neck defects  
+screw+thread_side+A screw with thread side defects  
+screw+thread_top+A screw with thread top defects  
+tile+crack+A tile with crack defects  
+tile+glue_strip+A tile with glue strip defects  
+tile+gray_stroke+A tile with gray stroke defects  
+tile+oil+A tile with oil defects  
+tile+rough+A tile with rough defects  
+transistor+bent_lead+A transistor with bent lead defects  
+transistor+cut_lead+A transistor with cut lead defects  
+transistor+damaged_case+A transistor with damaged case defects  
+transistor+misplaced+A transistor with misplaced defects  
+toothbrush+defective+A toothbrush with defective defects  
+wood+color+A wood with color defects  
+wood+combined+A wood with combined defects  
+wood+hole+A wood with hole defects  
+wood+liquid+A wood with liquid defects  
+wood+scratch+A wood with scratch defects  
+zipper+broken_teeth+A zipper with broken teeth defects  
+zipper+combined+A zipper with combined defects  
+zipper+fabric_border+A zipper with fabric border defects  
+zipper+fabric_interior+A zipper with fabric interior defects  
+zipper+rough+A zipper with rough defects  
+zipper+split_teeth+A zipper with split teeth defects  
+zipper+squeezed_teeth+A zipper with squeezed teeth defects
