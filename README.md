@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DefectSynth: Few-Shot Defective Image Generation by Modeling Shape and Appearance
 
 ## Environment Setup
@@ -82,7 +81,3 @@ checkpoints separately and comply with the
 [Stable Diffusion license](https://huggingface.co/spaces/CompVis/stable-diffusion-license).
 
 ---
-
-=======
-# DefectSynth
->>>>>>> dea1b043e9b6dee9388e8bcf4a4dba379fd8cc48
