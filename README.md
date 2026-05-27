@@ -81,3 +81,19 @@ checkpoints separately and comply with the
 [Stable Diffusion license](https://huggingface.co/spaces/CompVis/stable-diffusion-license).
 
 ---
+
+## Citation
+
+If you find our work useful in your research, please consider citing:
+
+```bash
+@article{zhao2026defectsynth,
+  title     = {DefectSynth: Few-Shot Defective Image Generation by Modeling Shape and Appearance},
+  author    = {Dexu Zhao, Xukun Qin, Xinghui Dong},
+  journal   = {IEEE Transactions on Automation Science and Engineering},
+  doi       = {10.1109/TASE.2026.3697519},
+  year      = {2026},
+  note      = {Accepted, to appear},
+  publisher = {IEEE}
+}
+```
