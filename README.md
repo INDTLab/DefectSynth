@@ -88,12 +88,10 @@ If you find our work useful in your research, please consider citing:
 
 ```bash
 @article{zhao2026defectsynth,
-  title     = {DefectSynth: Few-Shot Defective Image Generation by Modeling Shape and Appearance},
-  author    = {Dexu Zhao, Xukun Qin, Xinghui Dong},
-  journal   = {IEEE Transactions on Automation Science and Engineering},
-  doi       = {10.1109/TASE.2026.3697519},
-  year      = {2026},
-  note      = {Accepted, to appear},
-  publisher = {IEEE}
+  title={DefectSynth: Few-Shot Defective Image Generation by Modeling Shape and Appearance},
+  author={Zhao, Dexu and Qin, Xukun and Dong, Xinghui},
+  journal={IEEE Transactions on Automation Science and Engineering},
+  year={2026},
+  publisher={IEEE}
 }
 ```
